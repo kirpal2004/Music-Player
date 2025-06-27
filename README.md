@@ -14,9 +14,11 @@ Liked Songs
 ![liked](https://github.com/user-attachments/assets/a50dfb5a-c26f-4cbc-8417-cbec7b217de0)
 
 Queue Feature
+
 ![upnext](https://github.com/user-attachments/assets/dcab4f76-5131-40f6-8599-ddaafdcbe321)
 
 Current Play Song
+
 ![current](https://github.com/user-attachments/assets/4cfed0ef-109c-4ad6-b0ac-8e955dcb7305)
 
 
