@@ -11,7 +11,7 @@ First page All Songs
 ![mainpage](https://github.com/user-attachments/assets/e7dcbfab-21d7-4dde-a79b-d835d4d41999)
 
 Liked Songs
-![liked](https://github.com/user-attachments/assets/a50dfb5a-c26f-4cbc-8417-cbec7b217de0)
+![liked](https://github.com/user-attachments/assets/702d0055-2203-40f5-8003-0affe8fbd86d)
 
 Queue Feature
 
