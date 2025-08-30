@@ -5,7 +5,8 @@ Built with React.js and Tailwind CSS. Features include:
 - Song queue, liked songs, search & audio controls
 
 Home Page
-![home](https://github.com/user-attachments/assets/2c1d1069-0d49-4788-a38d-7488110e611b)
+![home](https://github.com/user-attachments/assets/cc99be15-7cfb-47fb-bed9-d882add35231)
+
 
 
 
